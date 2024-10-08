@@ -36,17 +36,17 @@
         "&none",        "&none",        "&none",        "&none",   "&macro_ver",        "&none",                                     "&none",                          "&none",                                          "&none",      "&none",      "&none",  "&none",  "&none",  "&none",
         "&none",        "&none",        "&none",        "&none",        "&none",                                 "&none",  "&none",  "&none",                          "&none", "&bl BL_TOG",        "&rgb_ug RGB_TOG",           "&bl BL_INC", "&bl BL_DEC",  "&none",  "&none",  "&none"
     ], [
-       "&trans", "&trans", "&trans", "&trans",   "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans",   "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&sk LCMD", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans",   "&trans", "&trans",                               "&trans",                     "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans",   "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
+       "&trans",     "&trans",   "&trans",    "&trans",   "&trans", "&trans",           "&trans",                                                             "&trans", "&trans",        "&trans", "&trans", "&trans",    "&trans", "&trans",
+       "&trans",     "&trans",   "&trans",    "&trans",   "&trans", "&trans",           "&trans",                                                             "&trans", "&trans",        "&trans", "&trans", "&trans",    "&trans", "&trans",
+       "&trans", "&sk LSHIFT", "&sk LALT", "&sk LCTRL", "&sk LCMD", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&kp BACKSPACE", "&trans", "&trans", "&kp ENTER", "&trans",
+       "&trans",     "&trans",   "&trans",    "&trans",   "&trans", "&trans",                               "&trans",                     "&trans",                     "&trans",        "&trans", "&trans", "&trans",    "&trans", "&trans",
+       "&trans",     "&trans",   "&trans",    "&trans",   "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                  "&trans", "&trans", "&trans",    "&trans", "&trans"
     ], [
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans",   "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans",   "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&sk RCMD", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                               "&trans",                     "&trans",                     "&trans",   "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",             "&trans", "&trans", "&trans", "&trans", "&trans"
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans",   "&trans",    "&trans",   "&trans",     "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans",   "&trans",    "&trans",   "&trans",     "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&sk RCMD", "&sk RCTRL", "&sk RALT", "&sk RSHIFT", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                               "&trans",                     "&trans",                     "&trans",   "&trans",    "&trans",   "&trans",     "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",             "&trans",    "&trans",   "&trans",     "&trans", "&trans"
     ]
   ]
 }
